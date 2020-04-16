@@ -1,2 +1,2 @@
 # gitrepos
-Download all the repositories in a orgaization
+Download all the repositories in a organization.
